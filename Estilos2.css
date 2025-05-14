@@ -1,0 +1,50 @@
+
+h1 {
+  text-align: center;
+  background-color: rgb(50, 125, 130);
+  border-style: solid;
+}
+h3 {
+  font-family: "Sans-serif", Arial, Sans-serif;
+  font-size: 20px;
+  color: lightblack;
+  border-style: solid;
+}
+h2 {
+  text-align: left;
+  font-family: "Arial", Arial, Sans-serif;
+   border-bottom: 3px solid ;
+}
+h4 {
+  font-family: "arial", Arial, Sans-serif;
+  font-size: 20px;
+  color: lightblack;
+  
+}
+table, td, th 
+  {
+  border: 1px  grey;
+
+  }
+
+  table {
+  border-collapse: collapse;
+  width: 100%;
+  
+  }
+
+  th {
+  height: 40px;
+  text-align: center;
+   }
+  
+body {
+  background-color: lightgrey;
+  text align: center;
+}
+ul{
+text-align: left;
+}
+
+
+
